@@ -5,6 +5,9 @@ Brush up on your coding skills with some examples of what you can do with your n
 ### Code examples that do not use the IMU
 
 #### spell.ino
+
+[spell.ino](https://github.com/thimbleio/kit2-led-cube/blob/master/software/spell.ino)
+
 Modify the code below to spell out your name!
 ```C++
 #include <Adafruit_NeoPixel.h>
@@ -170,6 +173,8 @@ uint32_t Wheel(byte WheelPos) {
 
 #### Dice
 Use your LED cube and the random() function to roll a digital die.
+
+[dice.ino](https://github.com/thimbleio/kit2-led-cube/blob/master/software/dice.ino)
 
 ```C++
 #include <Adafruit_NeoPixel.h>
@@ -348,6 +353,8 @@ uint32_t Wheel(byte WheelPos) {
 #### Animations
 Get some inspriation for cool animations from the code below.
 
+[animations.ino](https://github.com/thimbleio/kit2-led-cube/blob/master/software/animations.ino)
+
 ```C++
 #include <Adafruit_NeoPixel.h>
 #include <avr/power.h>
@@ -432,6 +439,9 @@ void colorWipe(uint32_t c, uint8_t wait) {
 ### Code examples that use the IMU
 
 #### MPU6050-test.ino
+
+[MPU6050-test.ino](https://github.com/thimbleio/kit2-led-cube/blob/master/software/MPU6050-test.ino)
+
 The code below uses the MPU6050 to control the LED Cube
 
 ```C++

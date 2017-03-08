@@ -111,7 +111,7 @@ For this part, only the +, IN, and - pins need to be connected. The + (grey wire
 ![Connect three wires (grey, purple, blue) to the UNO board. Blue wire connects to Ground; Purple wire connects to pin 6; Grey wire connects to 5V](assets/images/screenshots/006/three-wires-to-UNO.png)
 ![Connect USB cable from the top PCB board to UNO board. Then upload the code displayed below.](assets/images/screenshots/006/light-up-like-this.png)
 
-TODO: Add a link to github code
+[strandtest-1.ino](https://github.com/thimbleio/kit2-led-cube/blob/master/software/strandtest-1.ino)
 ```C++
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
@@ -198,6 +198,7 @@ Now that you have board 1 and 2 together, feel free to test the boards like we d
 
 The following code is meant to test the IMU. If you do not wish to use the IMU, this code will not work. Instead, modify the strandtest code to test 32 LEDs, rather than just 16.
 
+[MPU6050-test.ino](https://github.com/thimbleio/kit2-led-cube/blob/master/software/MPU6050-test.ino)
 ```C++
 // I2C device class (I2Cdev) demonstration Arduino sketch for MPU6050 class
 // 10/7/2011 by Jeff Rowberg <jeff@rowberg.net>
