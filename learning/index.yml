@@ -1,0 +1,29 @@
+title: LED Cube
+author: davidbrenner
+introduction:
+  "
+  The LED Cube is Thimble's 2nd kit. This kit uses the popular WS2812B Digital RGB LED.
+  Assemble the 6 boards to build your own LED cube. Add an optional IMU sensor to control the cube based on its orientation. Program your own patterns to control what the cube does. Add your own sensors to make the cube react to light, sound, etc."
+description: Build your own LED Cube!
+objectives:
+   - Assemble your LED Cube
+   - Upload code to make the cube flash in patterns
+   - Modify the code to make your own patterns
+cover_image: assets/images/finished-cube.jpg
+length: 120
+type: project
+tags:
+    - kit
+    - kit2
+    - ws2812
+    - ws2812b
+    - led
+    - cube
+    - solder
+    - soldering
+    - arduino
+blocks:
+  - 'cube.md'
+  - 'cube-assembly.md'
+  - 'troubleshooting.md'
+  - 'code.md'

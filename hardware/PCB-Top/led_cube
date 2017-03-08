@@ -1,0 +1,4 @@
+Reference, Quantity, Value, Footprint, Datasheet, 1st Distributor PN, 1st Distributor Link, 2nd Distributor PN, 2nd Distributor Link, MFG Name, MFG Part Num
+C1 C10 C11 C12 C13 C14 C15 C16 C2 C3 C4 C5 C6 C7 C8 C9 ,16,1uF,Capacitors_SMD:C_0603,
+LED1 LED10 LED11 LED12 LED13 LED14 LED15 LED16 LED2 LED3 LED4 LED5 LED6 LED7 LED8 LED9 ,16,LED_RGB_WS2812B,WS2812B:5050,http://www.adafruit.com/datasheets/WS2812B.pdf,Value,Value,Value,Value,Worldsemi,WS2812B
+P1 P2 P3 P4 ,4,CONN_01X03,Pin_Headers:Pin_Header_Straight_1x03,
