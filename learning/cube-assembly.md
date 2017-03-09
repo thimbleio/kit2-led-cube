@@ -72,7 +72,7 @@ This ~25 minute video shows the entire process of assembling the LED Cube.
 #### Unbox and layout your tools
 The first thing to do is un-box your kit and lay the components out on the table. We'll start by assembling the printed circuit board (PCB).
 
-![LED Cube Unboxing](https://youtu.be/gqFei2Cvz68)
+![LED Cube Unboxing](https://youtu.be/CDn_MjrDR5k)
 ![thumbnail](assets/images/thumbs/unboxing.jpg)
 Lay out the components from the kit that we're going to use.
 
