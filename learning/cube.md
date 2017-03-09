@@ -1,6 +1,6 @@
 ## Theory
 
-Learn how the cube's electronics work
+How the cube works
 
 As you follow through our tutorial, please know that we see this as a living document. If you discover anything unclear in the instructions, let us know and we will do our best to fix it as fast as we can. Each page of every module on our learning platform has a section for discussion at the bottom of it, so please use that to let us know about anything that is unclear. We believe strongly in the philosophy of empathy-driven development, and if something is unclear to you, it is likely unclear to others.
 
